@@ -1,0 +1,8 @@
+url:http://djustice-android.tumblr.com
+name:Sambal
+email:sambalsrivastava@gmail.com
+gender:male
+botmaster:Sambal Srivastava
+organization:Medkumo
+version:0.0.1
+
